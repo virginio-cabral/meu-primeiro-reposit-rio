@@ -1,2 +1,2 @@
 # meu-primeiro-reposit-rio
-Meu primeiro repositório
+Repositório feito durante exercício para comportar atividades do curso.
